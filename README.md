@@ -1,3 +1,3 @@
-# Data Science 710 Final Project
+This was the final project for my "Programming for Data Science" course. Use the CSV files as part of the analysis if you're trying to do it on your own.
 
-Submit your final project to this repository.  You'll find a detailed description in Final Project.docx.
+Python was used for data manipulation while R was used for analysis. 
